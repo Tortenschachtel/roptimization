@@ -1,0 +1,45 @@
+{
+  "files": [
+    {
+      "name": "A",
+      "size": 2827
+    },
+    {
+      "name": "B",
+      "size": 2912
+    },
+    {
+      "name": "C",
+      "size": 2946
+    },
+    {
+      "name": "D",
+      "size": 2979
+    },
+    {
+      "name": "E",
+      "size": 2979
+    },
+    {
+      "name": "F",
+      "size": 3035
+    },
+    {
+      "name": "G",
+      "size": 3116
+    },
+    {
+      "name": "H",
+      "size": 3156
+    },
+    {
+      "name": "I",
+      "size": 3190
+    },
+    {
+      "name": "J",
+      "size": 3602
+    }
+  ],
+  "diskSize": 20000
+}
