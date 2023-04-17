@@ -40,7 +40,7 @@ struct TaskPosition<'a> {
 pub fn evotask(data: InputData) -> Option<WorkResult> {
   // Construct the default evo params, then try to read the params file, if provided
   let mut population = default_population();
-  let mut generations = default_population();
+  let mut generations = default_generations();
 
   let args: Vec<String> = std::env::args().collect();
   for n in 0..args.len() {
